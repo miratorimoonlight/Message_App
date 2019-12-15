@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13237140195",
+    "firebase_url": "https://message-app-001.firebaseio.com",
+    "project_id": "message-app-001",
+    "storage_bucket": "message-app-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13237140195:android:383a94aa267b7533",
+        "android_client_info": {
+          "package_name": "com.moonlightkim.message_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13237140195-rc7fdvq91rl2ent34s4o3na0pirlvpig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpLRDb2IKecJtwtIiNGYYzd9kGzvYqW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13237140195-rc7fdvq91rl2ent34s4o3na0pirlvpig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
